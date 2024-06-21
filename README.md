@@ -1,9 +1,9 @@
 ## Table of Contents
-*   DBMS(https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#dbms)
-*   SQL(https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#SQL)
-*   Computer Networks(https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#Computer Networks)
-*   Os(https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#OS)
-*   Additional General Questions(https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#Additional General Questions)
+*   [DBMS](https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#dbms)
+*   [SQL](https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#SQL)
+*   [Computer Networks](https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#Computer Networks)
+*   [Os](https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#OS)
+*   [Additional General Questions](https://github.com/nV3nom/CS-fundamentals/tree/main?tab=readme-ov-file#Additional General Questions)
   
 # DBMS
 
